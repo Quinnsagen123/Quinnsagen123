@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Quinnsagen123
+- 👀 I’m interested in coding and creating
+- 🌱 I’m currently learning HMTL,Java Script and C++
+- 💞️ I’m looking to collaborate on creating self learning AI for video game content evoltion 
+- 📫 How to reach me: qsagen@gmail.com
